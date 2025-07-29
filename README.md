@@ -1,7 +1,8 @@
 # Full-stack Depth Interview Setup
 
+**note**: this assumes a Node version which is current or active per Node [release schedule](https://nodejs.org/en/about/previous-releases#release-schedule)
 
-1. `npm create vite@latest hello-world -- --template react-ts` and follow the prompts OR https://vite.new/react-ts for a browser IDE already setup
+1. `npm create vite@latest hello-world -- --template react-ts` and follow the prompts OR <https://vite.new/react-ts> for a browser IDE already setup
 2. `npm i vite-plugin-mock-server -D`
 3. Copy the below into `vite.config.ts`
 
